@@ -12,51 +12,133 @@ html{
     height: 100%;
     background-color: rgb(238, 236, 236);
     margin-top: 20px;
+    margin-bottom: 20px;
     padding-top: 50px;
     padding-bottom: 50px;
     align-content: center;
 }
 .seccion1{
     background-color: white;
-    width: 250px;
-    height: 250px;
-    margin-bottom: 50px;
+    width: 550px;
+    height: 550px;
  
 }
 
 .tituloseccion1{
-    display: inline-flex;
-    width: 100%;
+    width: 530px;
+    padding: 10px;
+}
 #p1{
     float:left;
-}
 }
 #p2{
     float:right;
 }
 .imagen1{
-    width: 250px;
+    width: 550px;
+    height: 400px;
+    object-fit: cover;
+    border:none;
+}
+.epigrafeseccion1{
+    width: 530px;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .seccion2{
     background-color: white;
-    width: 250px;
-    height: 250px;
-    margin-bottom: 50px;
- 
+    width: 550px;
+    height: 550px;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding-bottom: 10px;
 }
+.tituloseccion2{
+    width: 530px;
+    padding: 10px;
+}
+#p1{
+    float:left;
+}
+#p2{
+    float:right;
+}
+
 .imagen2{
-    width: 250px;
+    width: 550px;
+    height: 400px;
+    object-fit: cover;
+    padding:auto;
+}
+.epigrafeseccion2{
+    width: 530px;
+    padding: 10px;
+    background-color: white;
 }
 
 .seccion3{
     background-color: white;
-    width: 250px;
-    height: 250px;
+    width: 550px;
+    height: 550px;
     margin-bottom: 50px;
+    padding-bottom: 50px;
  
 }
+
+.tituloseccion3{
+    width: 530px;
+    padding: 10px;
+}
+#p1{
+    float:left;
+}
+#p2{
+    float:right;
+}
 .imagen3{
-    width: 250px;
-    height: 250px;
+    width: 550px;
+    height: 400px;
     object-fit:cover;
+    padding: auto;
+}
+.epigrafeseccion3{
+    width: 530px;
+    background-color: white;
+    padding: 10px;
+}
+.seccion4{
+    background-color: white;
+    width: 550px;
+    height: 550px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+ 
+}
+
+.tituloseccion4{
+    width: 530px;
+    padding: 10px;
+}
+#p1{
+    float:left;
+}
+#p2{
+    float:right;
+}
+.imagen4{
+    width: 550px;
+    height: 400px;
+    object-fit:cover;
+    padding:auto;
+}
+.epigrafeseccion4{
+    width: 530px;
+    background-color: white;
+    padding: 10px;
+
+}
+.seccion1, .seccion2, .seccion3, .seccion4{
+width: 550px;
+margin:auto;
 }
