@@ -17,6 +17,9 @@ html{
     padding-bottom: 50px;
     align-content: center;
 }
+/*.gif{
+    
+}*/
 .seccion1{
     background-color: white;
     width: 550px;
@@ -30,9 +33,12 @@ html{
 }
 #p1{
     float:left;
+    text-decoration: solid;
+    font-weight: bolder;
 }
 #p2{
     float:right;
+    color:rgb(197, 195, 193);
 }
 .imagen1{
     width: 550px;
@@ -46,23 +52,19 @@ html{
     padding-left: 10px;
     padding-right: 10px;
 }
+.estilo2{
+    text-decoration: solid;
+    font-weight: bolder;
+}
+
 .seccion2{
     background-color: white;
     width: 550px;
     height: 550px;
-    margin-top:50px;
-    margin-bottom:50px;
-    padding-bottom: 10px;
 }
 .tituloseccion2{
     width: 530px;
     padding: 10px;
-}
-#p1{
-    float:left;
-}
-#p2{
-    float:right;
 }
 
 .imagen2{
@@ -81,21 +83,13 @@ html{
     background-color: white;
     width: 550px;
     height: 550px;
-    margin-bottom: 50px;
-    padding-bottom: 50px;
- 
 }
 
 .tituloseccion3{
     width: 530px;
     padding: 10px;
 }
-#p1{
-    float:left;
-}
-#p2{
-    float:right;
-}
+
 .imagen3{
     width: 550px;
     height: 400px;
@@ -111,21 +105,13 @@ html{
     background-color: white;
     width: 550px;
     height: 550px;
-    margin-bottom: 50px;
-    padding-bottom: 50px;
- 
 }
 
 .tituloseccion4{
     width: 530px;
     padding: 10px;
 }
-#p1{
-    float:left;
-}
-#p2{
-    float:right;
-}
+
 .imagen4{
     width: 550px;
     height: 400px;
