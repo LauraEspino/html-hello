@@ -3,28 +3,20 @@ html{
 }
 #titulo{
     text-decoration:solid;
-    text-align:center;
-    padding: 0%;
-    
+    text-align:center;    
 }
 .fondo{
     width: 100%;
     height: 100%;
     background-color: rgb(238, 236, 236);
-    margin-top: 20px;
-    margin-bottom: 20px;
     padding-top: 50px;
     padding-bottom: 50px;
     align-content: center;
 }
-/*.gif{
-    
-}*/
 .seccion1{
     background-color: white;
     width: 550px;
-    height: 550px;
- 
+    height: 550px; 
 }
 
 .tituloseccion1{
@@ -44,13 +36,11 @@ html{
     width: 550px;
     height: 400px;
     object-fit: cover;
-    border:none;
 }
-.epigrafeseccion1{
-    width: 530px;
-    background-color: white;
-    padding-left: 10px;
-    padding-right: 10px;
+.epigrafeseccion1 {
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
 }
 .estilo2{
     text-decoration: solid;
@@ -74,11 +64,10 @@ html{
     padding:auto;
 }
 .epigrafeseccion2{
-    width: 530px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
-    background-color: white;
 }
-
 .seccion3{
     background-color: white;
     width: 550px;
@@ -89,7 +78,6 @@ html{
     width: 530px;
     padding: 10px;
 }
-
 .imagen3{
     width: 550px;
     height: 400px;
@@ -97,8 +85,8 @@ html{
     padding: auto;
 }
 .epigrafeseccion3{
-    width: 530px;
-    background-color: white;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
 }
 .seccion4{
@@ -106,12 +94,10 @@ html{
     width: 550px;
     height: 550px;
 }
-
 .tituloseccion4{
     width: 530px;
     padding: 10px;
 }
-
 .imagen4{
     width: 550px;
     height: 400px;
@@ -119,10 +105,9 @@ html{
     padding:auto;
 }
 .epigrafeseccion4{
-    width: 530px;
-    background-color: white;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
-
 }
 .seccion1, .seccion2, .seccion3, .seccion4{
 width: 550px;
